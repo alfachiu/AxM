@@ -1,2 +1,2 @@
-# alfa-x-module
-Alfa X Module
+# AxM
+Alfa x Module
